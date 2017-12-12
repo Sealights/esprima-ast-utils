@@ -1,5 +1,5 @@
 {
-  "name": "esprima-ast-utils",
+  "name": "sl-esprima-ast-utils",
   "version": "0.0.7",
   "description": "collection for AST query/manipulation/transformation",
   "main": "index.js",
